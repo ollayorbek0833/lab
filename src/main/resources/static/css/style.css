@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray !important;
+}
+
+.card {
+    max-width: 400px;
+    margin: auto;
+    border-radius: 12px;
+}
+
+.btn {
+    border-radius: 8px;
+}
